@@ -1,4 +1,4 @@
-# react_3d
+# 3d_portfolio
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
